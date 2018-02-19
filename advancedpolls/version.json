@@ -1,8 +1,8 @@
 {
     "stable": {
         "1.2": {
-            "current": "1.2.2",
-            "download": "https://github.com/jasoloz/advancedpolls/archive/advancedpolls-master.zip",
+            "current": "1.2.3",
+            "download": "https://github.com/jasoloz/advancedpolls/releases/download/1.2.3/advancedpolls.1.2.3.zip",
             "announcement": "",
             "eol": null,
             "security": false
